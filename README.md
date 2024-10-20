@@ -17,6 +17,7 @@ docker push <your-dockerhub-username>/web-k8s:v1
 ```
 
 ## Triển khai trên Kubernetes
+Sau khi bạn tạo image xong, nếu muốn chạy trên IMAGE mình mới tạo thì hãy đổi lại tên image trong file YAML (chỗ ```image: chuongltv/db-k8s:v1 và image: chuongltv/web-k8s:v1``` cho cả 2 file db-deployment.yaml và web-deployment.yaml, nếu không đổi trong file YAML mà chạy thì sẽ lấy image của tôi để chạy.
 ```
 cd ..
 kubectl apply -f db-deployment.yaml
