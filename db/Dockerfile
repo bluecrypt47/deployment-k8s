@@ -1,0 +1,11 @@
+FROM mysql:8.0
+
+COPY ./tintuc_db.sql /docker-entrypoint-initdb.d/
+
+ENV MYSQL_HOSTNAME=db
+ENV MYSQL_ROOT_PASSWORD=123123
+ENV MYSQL_DATABASE=tintuc_db
+ENV MYSQL_USER=user
+ENV MYSQL_PASSWORD=123123
+
+EXPOSE 3306

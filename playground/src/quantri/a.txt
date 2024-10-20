@@ -1,0 +1,33 @@
+BINHTHUAN{aTtAcK_0s_c0mM4nD_0f_dUcK9}
+a.txt	       lanlv.txt	 menu1.php	   theloai_xoa.php
+binhthuan.txt  lanlv1.txt	 pages		   thoat.php
+css	       loaitin_ds.php	 plugins	   tin_ds.php
+dashboard.php  loaitin_sua.php	 removefile.php    tin_sua.php
+hien.txt       loaitin_them.php  test_connect.php  tin_them.php
+images	       loaitin_xoa.php	 theloai_ds.php    tin_xoa.php
+index.php      login.php	 theloai_sua.php   tintuc_layloaitin.php
+js	       menu.php		 theloai_them.php
+a.txt	       lanlv.txt	 menu1.php	   theloai_xoa.php
+binhthuan.txt  lanlv1.txt	 pages		   thoat.php
+css	       loaitin_ds.php	 plugins	   tin_ds.php
+dashboard.php  loaitin_sua.php	 removefile.php    tin_sua.php
+hien.txt       loaitin_them.php  test_connect.php  tin_them.php
+images	       loaitin_xoa.php	 theloai_ds.php    tin_xoa.php
+index.php      login.php	 theloai_sua.php   tintuc_layloaitin.php
+js	       menu.php		 theloai_them.php
+a.txt	       lanlv.txt	 menu1.php	   theloai_xoa.php
+binhthuan.txt  lanlv1.txt	 pages		   thoat.php
+css	       loaitin_ds.php	 plugins	   tin_ds.php
+dashboard.php  loaitin_sua.php	 removefile.php    tin_sua.php
+hien.txt       loaitin_them.php  test_connect.php  tin_them.php
+images	       loaitin_xoa.php	 theloai_ds.php    tin_xoa.php
+index.php      login.php	 theloai_sua.php   tintuc_layloaitin.php
+js	       menu.php		 theloai_them.php
+a.txt	       lanlv.txt	 menu1.php	   theloai_xoa.php
+binhthuan.txt  lanlv1.txt	 pages		   thoat.php
+css	       loaitin_ds.php	 plugins	   tin_ds.php
+dashboard.php  loaitin_sua.php	 removefile.php    tin_sua.php
+hien.txt       loaitin_them.php  test_connect.php  tin_them.php
+images	       loaitin_xoa.php	 theloai_ds.php    tin_xoa.php
+index.php      login.php	 theloai_sua.php   tintuc_layloaitin.php
+js	       menu.php		 theloai_them.php
